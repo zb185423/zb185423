@@ -1,0 +1,3 @@
+PyYAML==6.0.1
+mdutils==1.6.0
+MonthDelta==0.9.1

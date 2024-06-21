@@ -1,0 +1,36 @@
+title: 会議室予約システム
+category:
+- Web
+target:
+- 社内システム
+description:
+- 会議室の利用を管理するためのシステム
+- ブラウザで動作する社内システム
+- 私のデビュー作
+start_date: 2010-04-01
+end_date: 2010-06-01
+team:
+- role: PM/PO
+  number: 1
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: C言語
+    framework: null
+  frontend:
+  - language: HTML
+  - language: CSS
+  - language: JavaScript
+    libraries:
+    - jQuery
+infrastructure:
+- Apache
+- Tomcat
+database:
+- Oracle
+work:
+- 上長の要件定義を元に外部・内部設計
+- 実装
+- ビルド・デプロイコマンドは上長が用意
+- テスト（手動）・リリース

@@ -1,0 +1,36 @@
+title: 不動産検索Webアプリケーション
+category:
+- Web
+target:
+- 賃貸不動産を探すエンドユーザ
+description:
+- Web上で賃貸不動産を検索するサイト
+- 立地、賃料、間取りなどを検索条件に指定して検索することができる
+- 気になる物件をCookieに保存し、一覧画面で比較検討することができる
+start_date: 2010-04-01
+end_date: 2010-06-01
+team:
+- role: PM/PO
+  number: 1
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: C言語
+    framework: null
+  frontend:
+  - language: HTML
+  - language: CSS
+  - language: JavaScript
+    libraries:
+    - jQuery
+infrastructure:
+- Apache
+- Tomcat
+database:
+- Oracle
+work:
+- 上長の要件定義を元に外部・内部設計
+- 実装
+- ビルド・デプロイコマンドは上長が用意
+- テスト（手動）・リリース
