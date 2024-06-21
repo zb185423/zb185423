@@ -1,0 +1,33 @@
+title: 広告(Web, App)配信管理システム
+category:
+- Web
+target:
+- toB
+description:
+- 広告掲載メディアが掲載先Web、アプリ等の情報を登録
+- 広告代理店が掲載したい広告データ・入札価格を登録
+start_date: 2019-03-01
+end_date: 2020-04-01
+team:
+- role: エンジニア
+  number: 4
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: Scala
+    framework: Play
+    libraries:
+    - ScalikeJDBC
+  frontend:
+  - language: TypeScript
+    framework: React
+infrastructure:
+- EC2
+- RDS
+- S3
+database:
+- PostgreSQL
+work:
+- 基本設計、実装、単体テスト
+- 工程管理（WBS）、人員配置

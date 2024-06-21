@@ -1,0 +1,37 @@
+title: 不動産仲介業 業務支援システム
+category:
+- Web
+target:
+- 賃貸不動産仲介業の営業職
+description:
+- 不動産仲介店における顧客・売上管理
+- 複数の仲介店を持つ不動産会社における各店の売上集計・顧客管理
+start_date: 2016-01-01
+end_date: 2016-07-01
+team:
+- role: PO
+  number: 1
+- role: デザイナー
+  number: 1
+my_roles:
+- PM
+- エンジニア
+languages:
+  backend:
+  - language: Java
+    libraries:
+    - Servlet
+  frontend:
+  - language: HTML
+  - language: CSS
+  - language: JavaScript
+    libraries:
+    - jQuery
+infrastructure:
+- Apache
+- Tomcat
+database:
+- PostgreSQL
+work:
+- 要件定義、基本設計～詳細設計
+- サーバサイド、フロントエンドの実装

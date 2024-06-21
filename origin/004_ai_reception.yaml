@@ -1,0 +1,41 @@
+title: AI受付
+category:
+- Windows
+target:
+- 社内システム
+description:
+- 企業への来訪者に対して、音声による入出力で訪問先部署の内線番号を案内する
+- 顔認証により自社社員を判別しエントランスを解錠する
+- その他、天気予報や北海道のローカル情報など、雑談できる機能も備える
+start_date: 2018-01-01
+end_date: 2018-05-01
+team:
+- role: PO
+  number: 1
+- role: PM
+  number: 1
+- role: エンジニア
+  number: 2
+- role: デザイナー
+  number: 2
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: Java
+    libraries:
+    - Servlet
+    - kuromoji
+  frontend:
+  - language: C#
+    libraries:
+    - Unity
+infrastructure:
+- Apache
+- Tomcat
+- Dialogflow
+database:
+- PostgreSQL
+work:
+- 要件定義、基本設計
+- 自然言語解析等のサーバサイドの実装
