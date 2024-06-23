@@ -1,0 +1,39 @@
+title: コレクター向けSNS
+category:
+- Web
+- iOS
+target:
+- コレクター
+description:
+- コレクターが自身のコレクションをWeb上で公開し、他のユーザとコミュニケーションをするためのサービス
+start_date: 2021-05-01
+end_date: 2022-08-01
+team:
+- role: PO
+  number: 1
+- role: デザイナー
+  number: 1
+- role: エンジニア
+  number: 3
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: Golang
+    framework: Echo
+    libraries:
+    - GORM
+  frontend:
+  - language: TypeScript
+    framework: React
+  - language: Swift
+infrastructure:
+- Docker
+- ECS
+- RDS
+- S3
+database:
+- MySQL
+work:
+- 実装、単体テスト
+- 工程管理（WBS）、人員配置

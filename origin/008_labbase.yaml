@@ -1,0 +1,39 @@
+title: 採用・転職サービス
+category:
+- Web
+target:
+- 理系大学の学生を新卒採用したい企業
+- 就職活動中の大学生・大学院生
+description:
+- 企業の採用情報が掲載されているサービス
+- 就職活動中の大学生・大学院生がプロフィール登録する
+- Web上で企業からのスカウトや学生からの応募ができる
+start_date: 2022-05-01
+end_date: 2022-08-01
+team:
+- role: PO
+  number: 1
+- role: エンジニア
+  number: 4
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: Java
+    framework: Play
+  - language: Kotlin
+    framework: Play
+  frontend:
+  - language: TypeScript
+    framework: React
+infrastructure:
+- Docker
+- Kubernetes
+- EKS
+- RDS
+- S3
+- CircleCI
+database:
+- MySQL
+work:
+- 実装、単体テスト

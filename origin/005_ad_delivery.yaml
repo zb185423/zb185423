@@ -23,6 +23,7 @@ languages:
   - language: TypeScript
     framework: React
 infrastructure:
+- Docker
 - EC2
 - RDS
 - S3

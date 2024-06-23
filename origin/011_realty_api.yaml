@@ -1,0 +1,32 @@
+title: 不動産情報取得API
+category:
+- Web
+target:
+- 不動産の情報を活用してサービスを開発する方
+description:
+- 某不動産会社が保有する不動産の情報を取得するためのAPI
+start_date: 2022-09-01
+end_date: 2019-12-01
+team:
+- role: PO
+  number: 1
+- role: エンジニア
+  number: 1
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: Rust
+    framework: actix-web
+    libraries:
+    - Diesel
+infrastructure:
+- Docker
+- Kubernetes
+- EKS
+- RDS
+database:
+- PostgreSQL
+work:
+- 要件定義、基本設計、詳細設計
+- 実装、テスト

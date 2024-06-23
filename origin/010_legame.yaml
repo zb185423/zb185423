@@ -1,0 +1,39 @@
+title: パーソナルトーニングジムWebサイト・スマホアプリ
+category:
+- Web
+- iOS
+- Android
+target:
+- パーソナルトーニングジム利用者
+description:
+- パーソナルトーニングジムの潜在顧客に向けたWebサイト
+- パーソナルトーニングジムの契約者が自宅でトレーニングする際に利用する動画アプリ
+start_date: 2019-06-01
+end_date: 2019-10-01
+team:
+- role: PO
+  number: 1
+- role: エンジニア
+  number: 1
+my_roles:
+- エンジニア
+- デザイナー
+languages:
+  backend:
+  - language: JavaScript
+  frontend:
+  - language: TypeScript
+    framework: Vue
+  - language: Dart
+    framework: Flutter
+infrastructure:
+- Firebase Auth
+- Cloud Firestore
+- Cloud Storage for Firebase
+- RevenueCat
+- Netlify
+database:
+- Firebase
+work:
+- 要件定義、基本設計、詳細設計
+- 実装、テスト

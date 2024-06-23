@@ -8,4 +8,3 @@
 ## Projects
 
 - [Projects](./projects/)
-

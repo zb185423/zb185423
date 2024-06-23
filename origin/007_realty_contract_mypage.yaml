@@ -1,0 +1,41 @@
+title: 不動産売買契約マイページ
+category:
+- Web
+target:
+- 不動産売買契約者
+description:
+- 不動産の売買契約を締結したお客様がWeb上で書類の提出や管理をするためのサービス
+start_date: 2021-04-01
+end_date: 2022-04-01
+team:
+- role: PO
+  number: 1
+- role: スクラムマスター
+  number: 1
+- role: エンジニア
+  number: 3
+my_roles:
+- PM
+- エンジニア
+- スクラムマスター
+languages:
+  backend:
+  - language: Python
+    framework: DRF
+  frontend:
+  - language: Dart
+    framework: Flutter
+infrastructure:
+- Docker
+- Kubernetes
+- EKS
+- RDS
+- S3
+- Cognito
+- CodeBuild
+- CodeDeploy
+database:
+- PostgreSQL
+work:
+- 基本設計、詳細設計、実装、単体テスト
+- 工程管理（WBS）、人員配置

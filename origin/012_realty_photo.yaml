@@ -1,0 +1,37 @@
+title: 不動産巡回管理アプリ
+category:
+- Web
+- iOS
+- Android
+target:
+- 不動産管理会社の社員と管理者
+description:
+- 不動産管理会社が巡回時に写真を撮影するためのアプリ（iOS、Android）
+- 上記アプリで撮影した写真をチェックするためのアプリケーション（Web）
+start_date: 2014-09-01
+end_date: 2015-09-01
+team:
+- role: PO
+  number: 1
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: Java
+    libraries:
+    - Servlet
+  frontend:
+  - language: Swift
+  - language: Java
+  - language: HTML
+  - language: CSS
+  - language: JavaScript
+    libraries:
+    - jQuery
+infrastructure:
+- Apache
+- Tomcat
+database:
+- PostgreSQL
+work:
+- 実装、テスト

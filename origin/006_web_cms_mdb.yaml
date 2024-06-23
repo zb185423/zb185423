@@ -1,0 +1,38 @@
+title: WebサイトCMS
+category:
+- Web
+target:
+- Webサイト管理者
+description:
+- Webサイトのコンテンツ（画像、テキスト）を管理するためのシステム
+start_date: 2020-04-01
+end_date: 2021-04-01
+team:
+- role: PM
+  number: 1
+- role: PO
+  number: 1
+- role: エンジニア
+  number: 3
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: PHP
+    framework: Laravel
+  frontend:
+  - language: TypeScript
+    framework: Vue
+infrastructure:
+- Docker
+- Kubernetes
+- EKS
+- RDS
+- S3
+- CodeBuild
+- CodeDeploy
+database:
+- PostgreSQL
+work:
+- 基本設計、詳細設計、実装、単体テスト
+- 工程管理（WBS）、人員配置

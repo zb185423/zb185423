@@ -1,0 +1,52 @@
+title: 不動弾クラウドファンディングサービス
+category:
+- Web
+- iOS
+- Android
+target:
+- 投資家
+description:
+- 不動産クラウドファンディングのためのWeb・スマホアプリ
+- 出資者の審査やファンドの運用をするための管理ツール（Web）
+start_date: 2022-12-01
+end_date: 2024-06-01
+team:
+- role: PO
+  number: 1
+- role: PM
+  number: 1
+- role: デザイナー
+  number: 1
+- role: エンジニア
+  number: 3
+my_roles:
+- エンジニア
+languages:
+  backend:
+  - language: Golang
+    framework: Echo
+    libraries:
+    - SQLBoiler
+    - openapi-generator
+  - language: JavaScript
+  frontend:
+  - language: TypeScript
+    framework: React
+  - language: Dart
+    framework: Flutter
+infrastructure:
+- Docker
+- Kubernetes
+- EKS
+- ArgoCD
+- RDS
+- S3
+- Cognito
+- CodeMagic
+- Prometheus
+- Grafana
+database:
+- PostgreSQL
+work:
+- 要件定義、基本設計、詳細設計
+- 実装、単体テスト
